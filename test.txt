@@ -1,2 +1,1 @@
 print("goodbye");
-print("010101")
