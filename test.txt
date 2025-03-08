@@ -1,2 +1,2 @@
 print("goodbye");
-print(error94)
+print("010101")
